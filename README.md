@@ -1,4 +1,5 @@
 # pytorch3dWHL
+RTX 5090
 
 Ubuntu24.04
 
